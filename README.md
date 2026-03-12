@@ -5,6 +5,8 @@
 
 A lightweight, asynchronous C# client library for integrating the **Duitku Payment Gateway** into .NET applications.
 
+This library is unofficial version, use it at your own risk.
+
 ## 🚀 Features
 
 * **Easy Integration**: Simple DI-based setup.
